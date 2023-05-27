@@ -7,9 +7,7 @@ WGU C482 inventory management system project
 create a Java desktop application using the solution statements provided in the requirements section of this assessment.
 The preferred integrated development environment (IDE) for this assignment is IntelliJ IDEA (Community Edition).
 
-This assessment also requires the following software: the latest long term support (LTS) version of JDK and JavaFX SDK, and 
-**Scene Builder**, 
-which are also available for download in the web links section of this assessment, as well as a video demonstration of the completed application.
+This assessment also requires the following software: the latest long term support (LTS) version of JDK and JavaFX SDK, and Scene Builder, which are also available for download in the web links section of this assessment, as well as a video demonstration of the completed application.
 
 Your submission should include a zip file with all the necessary code files to compile, support, and run your application. Your submission should also include a folder with descriptive Javadoc comments in the .java files. The zip file submission must keep the project file and folder structure intact for the IDE.
 
