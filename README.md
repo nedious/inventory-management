@@ -41,8 +41,8 @@ A.  Create a JavaFX application with a graphical user interface (GUI) based on t
 
 
 B.  Provide Javadoc comments for each class member throughout the code, and include a detailed description of the following in your comments:
-• a logical or runtime error that you corrected in the code and how it was corrected
-• a future enhancement that would extend the functionality of the application if it were to be updated
+- [ ] a logical or runtime error that you corrected in the code and how it was corrected
+- [ ] a future enhancement that would extend the functionality of the application if it were to be updated
 
 *Note:* For these comments to accurately export to the Javadoc comments, please add the logical and runtime error comments in the method header declaration comments where the error that was corrected occurred, and include the future enhancement comments in the comments of the main class. Please start these comments with “RUNTIME ERROR” or “FUTURE ENHANCEMENT” as applicable.
 
